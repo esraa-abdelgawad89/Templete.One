@@ -1,0 +1,257 @@
+.image img{
+    width: 100%;
+    height: auto;
+}
+.container{
+    text-align: center;
+    color: white;
+    text-shadow: 2px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+.font{
+    font-size:large;
+
+}
+
+.test{
+    width:95px;
+    height: 50px;
+    color: white;
+    background-color:rgb(153, 128, 97);
+    border-style:solid;
+    border-radius:2px ;
+    border: none;
+    
+}
+.docu{
+    width: 95px;
+    height: 50px;
+    color: white;
+    background-color: transparent;
+    border-radius:2px ;
+    border: 2px white solid;
+}
+.itemes{
+    justify-content:space-around;
+    display: flex;
+    margin: 20px ;
+    padding: 60px 80px;
+}
+.back img{
+    width: 450px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+    
+}
+.item{
+    max-width:500px;
+    height: 200px;
+}
+.item h2{
+    margin-bottom: 20px;
+}
+.item p{
+        margin-bottom: 20px;
+        font-size: larger;
+}
+.item ul{
+    list-style: none;
+}
+.item ul li{
+    display:flex;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-size: larger;
+}
+.item ul li img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.maain{
+    justify-content:space-between;
+    display: flex;
+    margin: 20px ;
+    padding: 60px 80px;
+    direction: rtl;
+    
+
+}
+
+.end img{
+    width: 450px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+}
+.main{
+    max-width:500px;
+    height: 200px;
+
+}
+    .main h2{
+    margin-bottom: 20px;
+}
+
+    .main p{
+    margin-bottom: 20px;
+    font-size: larger;
+}
+
+
+
+.flex-parent{
+    text-align: center;
+    padding: 40px;
+}
+.parent h2{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.parent p{
+        text-align: center;
+        font-size: larger;
+        margin-bottom: 15px;
+}
+.flex-parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 40px;
+    flex-wrap: wrap;
+
+}
+
+.child{
+    width: 300px;
+    min-height: 50px;
+    text-align: center;
+    margin: 30px;
+    padding: 35px;
+    border: 2px solid rgb(245, 239, 239);
+    display: inline-block;
+
+}
+.child img{
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+
+}
+
+.mapp{
+justify-content: space-between;
+display: flex;
+margin: 20px;
+padding: 60px 80px;
+direction: rtl;
+}
+.start img{
+    width: 450px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+    
+}
+.card{
+    max-width:500px;
+    height: 200px;
+    direction: ltr;
+
+
+}
+.card h2{
+    margin-bottom: 20px;
+}
+.card p{
+        margin-bottom: 20px;
+        font-size: larger;
+}
+.card ul{
+    list-style: none;
+}
+.card ul li{
+    display:flex;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-size: larger;
+}
+.card ul li img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+
+}
+
+.sweets{
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding:40px 20px ;
+    flex-wrap: wrap;
+    max-width: 1300px;
+    margin: auto;
+}
+
+.sweett{
+    flex: 1;
+    min-width: 250px;
+    margin-bottom: 15px;
+    padding: 15px;
+    border: none;
+    display: inline-block
+
+}
+
+.sweett ul{
+    list-style: none;
+}
+.sweett ul li{
+    display:flex;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-size: larger;
+    color: azure;
+}
+.sweett ul li img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+
+}
+.sweett h3{
+    margin-bottom: 20px;
+    color: azure;
+}
+.sweett p{
+    margin-bottom: 20px;
+    color: azure;
+}
+
+.edit{
+    margin: 5px;
+}
+.edit img{
+    width:500px;
+    display: block;
+    margin: 0 auto 10px auto;
+    padding: 15px;
+}
+.edit p{
+margin-bottom: 25PX;
+font-size: larger;
+text-align: center;
+}
+.edittt img{
+    width:150px;
+    display: block;
+}
+
